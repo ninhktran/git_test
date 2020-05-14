@@ -1,0 +1,1 @@
+This is Ninh's first git project!
